@@ -135,7 +135,7 @@ public class Main {
             System.out.println( " su vuelto es:"+ vuelto3 + " $");
 
             //          Factura
-                System.out.println(" Gracias por visitar El BarRobot  tiene su factura ");
+                System.out.println(" Gracias por visitar El BarRobot aca tiene su factura ");
         System.out.println("------------------------------------------------------------");
         System.out.println("                         Factura");
         System.out.println("Cliente:"+nombre);
@@ -162,7 +162,7 @@ public class Main {
             System.out.println( " su vuelto es:"+ vuelto4 + " $");
 
               //          Factura
-                System.out.println(" Gracias por visitar El BarRobot  tiene su factura ");
+                System.out.println(" Gracias por visitar El BarRobot aca tiene su factura ");
         System.out.println("------------------------------------------------------------");
         System.out.println("                         Factura");
         System.out.println("Cliente:"+nombre);
